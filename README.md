@@ -57,4 +57,4 @@ A CSV report is automatically generated after each simulation.
 
 ### Installation
 ```bash
-pip install numpy matplotlib tensorflow tensorflow-probability
+pip install numpy matplotlib tensorflow tensorflow-probability[tf]
